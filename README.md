@@ -1,1 +1,1 @@
-Pelatihan git
+git day 1
