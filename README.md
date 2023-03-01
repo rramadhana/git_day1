@@ -1,1 +1,1 @@
-# git_day1
+Pelatihan git
